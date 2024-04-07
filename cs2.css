@@ -1,0 +1,61 @@
+body {
+    font-family: "Noto Sans KR", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard Variable", Pretendard, Roboto, "Noto Sans KR", "Segoe UI", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+    
+}
+
+.join_section {
+    width: 400px;
+    margin: 0px auto;
+    text-align: center;
+
+}
+
+.join_seciton .logo_section img{
+    width: 200px;
+}
+
+.join_section  .title {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.join_section .desc {
+    font-size: 16px;
+    color: #898989;
+    margin-top: 20px;
+}
+
+.join_section  .input_section {
+    margin-top: 20px;
+    
+}
+
+.input_section input,
+.input_section select {
+    width: 100%;
+    height: 50px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    box-sizing: border-box;
+    appearance: none;
+}
+
+.join_section .agree_section {
+    text-align: left;
+}
+
+.bt_section {
+    margin-top: 20px;
+}
+
+.join_bt {
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    color: #ffffff;
+    font-size: 16px;
+    border: none;
+}
